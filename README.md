@@ -23,6 +23,6 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.s
 
 
 
-### Como me encontrar   
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the
+### Como me encontrar 
+(https://img.shields.io/badge/Gmail-D14836?style=for-the
 badge&logo=gmail&logoColor=white)](mailto:alvesmiguelgois@gmail.com
